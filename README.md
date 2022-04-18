@@ -15,6 +15,8 @@
 1. 以上均不依赖任何Android权限
 2. 以上支持oppo，vivo，华为，小米，原生等主流机型
 
+联系作者：miqtdev@163.com  微信：miqingtang
+
 演示：
 
 |                  OPPO FindX3 Pro Android 12                  |                      小米 11 Android 12                      |                    华为mate30 Android 10                     |
